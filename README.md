@@ -13,4 +13,4 @@ This app demonstrates the following views and techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/ColorMyViewsScreenshots.png)
+![Screenshot1](screenshots/ColorMyViewsScreenshots.png)![Screenshot2](screenshots/ColorMyViewsScreenshots.png)![Screenshot3](screenshots/ColorMyViewsScreenshots.png)
